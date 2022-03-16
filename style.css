@@ -36,7 +36,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url('images/background-header.jpg');
+    background-image: url('https://media.discordapp.net/attachments/755487002710769809/953663814015025212/background-header.jpg?width=1123&height=702');
     background-size: cover;
     padding: 40px;
 }
